@@ -1,6 +1,6 @@
 {
   "name": "react-currency-converter-any",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A React component for currency conversion",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -27,6 +27,14 @@
     "@rollup/plugin-terser": "^0.4.0",
     "rollup": "^2.79.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ashishpundir1997/react-currency-converter-any.git"
+  },
+  "bugs": {
+    "url": "https://git@github.com:ashishpundir1997/react-currency-converter-any.git/issues"
+  },
+  "homepage": "https://git@github.com:ashishpundir1997/react-currency-converter-any.git#readme",
   "keywords": [
     "react",
     "currency",

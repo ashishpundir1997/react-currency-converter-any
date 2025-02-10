@@ -5,15 +5,15 @@ A simple and lightweight React component for currency conversion.
 ## Installation
 
 ```bash
-npm install my-currency-converter
+npm install react-currency-converter-any
 # or
-yarn add my-currency-converter
+yarn add react-currency-converter-any
 ```
 
 ## Usage
 
 ```jsx
-import CurrencyConverter from "my-currency-converter";
+import CurrencyConverter from "react-currency-converter-any";
 
 function App() {
   return <CurrencyConverter amount="100" fromCurrency="USD" toCurrency="EUR" />;
