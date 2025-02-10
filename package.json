@@ -1,0 +1,39 @@
+{
+  "name": "react-currency-converter-any",
+  "version": "1.0.0",
+  "description": "A React component for currency conversion",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "prepare": "npm run build"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.0",
+    "@babel/preset-react": "^7.22.15",
+    "@rollup/plugin-babel": "^5.3.1",
+    "@rollup/plugin-commonjs": "^24.0.1",
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "@rollup/plugin-terser": "^0.4.0",
+    "rollup": "^2.79.1"
+  },
+  "keywords": [
+    "react",
+    "currency",
+    "converter",
+    "exchange",
+    "money"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
