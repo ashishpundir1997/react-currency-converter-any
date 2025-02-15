@@ -33,6 +33,10 @@ function App() {
 
 Includes symbols for 40+ currencies including USD, EUR, GBP, JPY, CNY, INR, and many more.
 
+##contact
+
+Email: ashishpundir1997@gmail.com
+
 ## License
 
 MIT

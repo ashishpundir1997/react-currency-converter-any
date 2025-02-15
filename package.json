@@ -1,6 +1,6 @@
 {
   "name": "react-currency-converter-any",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "description": "A React component for currency conversion",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
